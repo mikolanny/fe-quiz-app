@@ -1,6 +1,6 @@
-# Frontend Mentor - Frontend Quiz app solution
+# ALx Webstack Portfolio Project
 
-This repository contains my solution to the Frontend Quiz challenge on Frontend Mentor built with React (Vite), Redux Toolkit, Framer Motion, and TailwindCSS, deployed on Vercel.
+This repository contains my solution to the ALx Webstack Portfolio project built with React (Vite), Redux Toolkit, Framer Motion, and TailwindCSS, deployed on Vercel.
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
@@ -9,7 +9,7 @@ This repository contains my solution to the Frontend Quiz challenge on Frontend 
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
 
-[![ScreenShot](https://github.com/Valik3201/frontend-quiz-app/blob/main/assets/shots-1.png)](https://github.com/Valik3201/frontend-quiz-app/blob/main/assets/shots-1.png)
+[![ScreenShot](https://github.com/mikolanny/fe-quiz-app/blob/main/assets/shots-1.png)](https://github.com/mikolanny/fe-quiz-app/blob/main/assets/shots-1.png)
 
 ## About The Project
 
@@ -23,14 +23,12 @@ Additionally, I incorporated animations using Framer Motion, enhancing the user 
 
 Please feel free to reach out with any issues or suggestions!
 
-[![ScreenShot](https://github.com/Valik3201/frontend-quiz-app/blob/main/assets/shots-2.png)](https://github.com/Valik3201/frontend-quiz-app/blob/main/assets/shots-2.png)
+[![ScreenShot](https://github.com/mikolanny/fe-quiz-app/blob/main/assets/shots-2.png)](https://github.com/mikolanny/fe-quiz-app/blob/main/assets/shots-2.png)
 
 ## Links
 
-- Solution URL:
-  [![Frontend Mentor Badge](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=flat)](https://www.frontendmentor.io/solutions/frontend-quiz-app-react-redux-framer-vercel-U0akGpRn0o)
 - Live Site URL:
-  [![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)](https://valik3201-frontend-quiz-app.vercel.app)
+  [![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)](https://mikolanny-quiz-app.vercel.app/)
 
 ## Built With
 
@@ -40,18 +38,17 @@ Please feel free to reach out with any issues or suggestions!
 - **Tailwind CSS**: A utility-first CSS framework for creating custom, responsive designs with ease.
 - **Framer Motion**: A library for adding smooth animations and interactive motion effects to web applications.
 
-[![ScreenShot](https://github.com/Valik3201/frontend-quiz-app/blob/main/assets/shots-3.png)](https://github.com/Valik3201/frontend-quiz-app/blob/main/assets/shots-3.png)
+[![ScreenShot](https://github.com/mikolanny/fe-quiz-app/blob/main/assets/shots-3.png)](https://github.com/mikolanny/fe-quiz-app/blob/main/assets/shots-3.png)
 
-[![ScreenShot](https://github.com/Valik3201/frontend-quiz-app/blob/main/assets/shots-4.png)](https://github.com/Valik3201/frontend-quiz-app/blob/main/assets/shots-4.png)
+[![ScreenShot](https://github.com/mikolanny/fe-quiz-app/blob/main/assets/shots-4.png)](https://github.com/mikolanny/fe-quiz-app/blob/main/assets/shots-4.png)
 
 ## Author
 
-[![Frontend Mentor Badge](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?logo=frontendmentor&logoColor=fff&style=flat)](https://www.frontendmentor.io/profile/Valik3201)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:valik3201@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/valentynchernetskyi/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/valik3201)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://www.instagram.com/valik_chern/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:michaelolanny@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/michael-olaniyan-b57823170/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/mikolanny)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://www.instagram.com/mikolanny/)
 
 ## Acknowledgments
 
-I would like to express my gratitude to [Frontend Mentor](https://www.frontendmentor.io) for providing challenging projects that contribute to my growth as a developer.
+I would like to express my gratitude to [ALx Africa](https://www.alxafrica.com) for providing this program that contribute to my growth as a developer.
